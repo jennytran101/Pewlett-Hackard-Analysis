@@ -1,5 +1,6 @@
 # Pewlett-Hackard-Analysis
-## Purpose: Use SQL to help the HR analysis to find who will retire in the next few years and which position will be available. This will help the company to generate who is eligible for the retirement package. 
+## Purpose: 
+Use SQL to help the HR analysis to find who will retire in the next few years and which position will be available. This will help the company to generate who is eligible for the retirement package. 
 
 
 ## Results:.
