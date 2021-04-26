@@ -4,16 +4,16 @@
 
 ## Results:.
 Retirement_titles:
-![retirement_titles](Data/retirement_titles.png)
+![retirement](data/retirement_titles.png)
 
 Unique_titles:
-![unique_titles](Data/unique_titles.png)
+![unique_titles](data/unique_titles.png)
 
 
 Retiring_titles:
-![retiring_titles](Data/retiring_titles.png)
+![retiring_titles](data/retiring_titles.png)
 
 Mentorship_eligibility:
-![ mentorship_eligibility](Data/mentorship_eligibility.png)
+![ mentorship_eligibility](data/mentorship_eligibility.png)
 
 ![image](https://user-images.githubusercontent.com/79950817/116022605-1a8bf700-a610-11eb-9f53-1c582619c15c.png)
