@@ -34,4 +34,4 @@ Mentorship_eligibility:
 Based on the retirement titles: the company should be preparing for these roles: senior engineer, senior staff, engineer, staff, technique leader, assistant engineer, manager. There will be 7 roles available in the next few years. 
 
 ![retiring_titles](data/retiring_titles.png)
-![image](https://user-images.githubusercontent.com/79950817/116023004-eebd4100-a610-11eb-868a-a61f8ced5a64.png)
+
